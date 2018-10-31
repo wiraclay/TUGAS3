@@ -16,3 +16,7 @@ class queue bertipe double - https://github.com/wiraclay/TUGAS3/blob/master/Queu
 clas main queue bertipe double - https://github.com/wiraclay/TUGAS3/blob/master/MainQueueDouble.java
 class queue bertipe float - https://github.com/wiraclay/TUGAS3/blob/master/QueueFloat.java
 clas main queue bertipe float - https://github.com/wiraclay/TUGAS3/blob/master/MainQueueFloat.java 
+class queue bertipe generic - https://github.com/wiraclay/TUGAS3/blob/master/QueueGeneric.java
+class main queue bertipe generic - https://github.com/wiraclay/TUGAS3/blob/master/MainQueueGeneric.java
+class stack bertipe generic - https://github.com/wiraclay/TUGAS3/blob/master/StackGeneric.java
+class main stack bertipe generic - https://github.com/wiraclay/TUGAS3/blob/master/MainStackGeneric.java
